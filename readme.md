@@ -45,6 +45,7 @@ if landmarks[4].x > landmarks[3].x and landmarks[8].y < landmarks[6].y:
     waving_hand = True
 ```
 
+
 ## Giấy phép
 
 Dự án thuoc nhom sinh vien HUFLIT, moi chi tiet xin vui long lien he facebook ben duoi
@@ -54,5 +55,3 @@ Dự án thuoc nhom sinh vien HUFLIT, moi chi tiet xin vui long lien he facebook
 Đối với câu hỏi hoặc vấn đề, vui lòng lien he trên [Facebook](https://www.facebook.com/danhhoanghieunghi69/).
 
 ---
-
-ể phân phối dự án, bạn có thể sử dụng các công cụ như `twine` để tải lên PyPI.
