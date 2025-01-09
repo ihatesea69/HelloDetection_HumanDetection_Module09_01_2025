@@ -16,16 +16,12 @@ Dự án này là một ứng dụng camera trực tiếp sử dụng Mediapipe 
 
 1. Clone repository này:
 ```bash
-git clone https://github.com/your-repo/CameraOverlayStream.git
+git clone https://github.com/ihatesea69/HelloDetection_HumanDetection_Module09_01_2025
 cd CameraOverlayStream
 ```
 
-2. Cài đặt các thư viện cần thiết:
-```bash
-pip install -r requirements.txt
-```
 
-3. Hoặc có thể cài đặt thông qua `setup.py`:
+1. Hoặc có thể cài đặt thông qua `setup.py`:
 ```bash
 python setup.py install
 ```
