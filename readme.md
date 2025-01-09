@@ -17,7 +17,7 @@ Day la mot phan trong du an khac*
 
 1. Clone repository này:
 ```bash
-git clone https://github.com/ihatesea69/HelloDetection_HumanDetection_Module09_01_2025
+git clone https://github.com/ihatesea69/HumanWaveDetector
 cd HelloDetection_HumanDetection_Module09_01_2025
 ```
 
@@ -51,7 +51,7 @@ Dự án thuoc nhom sinh vien HUFLIT, moi chi tiet xin vui long lien he facebook
 
 ## Hỗ trợ
 
-Đối với câu hỏi hoặc vấn đề, vui lòng tạo issue trên [Facebook](https://www.facebook.com/danhhoanghieunghi69/).
+Đối với câu hỏi hoặc vấn đề, vui lòng lien he trên [Facebook](https://www.facebook.com/danhhoanghieunghi69/).
 
 ---
 

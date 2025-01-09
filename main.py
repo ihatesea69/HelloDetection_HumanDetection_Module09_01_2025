@@ -22,6 +22,8 @@ pose = mp_pose.Pose(
 cap = cv2.VideoCapture(1)
 cv2.namedWindow("Camera with Overlay", cv2.WINDOW_NORMAL)
 
+#Giảm khung hình xử lý
+
 prev_time = 0
 fps = 10
 interval = 1 / fps
