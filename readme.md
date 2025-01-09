@@ -1,6 +1,7 @@
-# Camera Overlay Stream
+# HumanWaveDetector
 
 Dự án này là một ứng dụng camera trực tiếp sử dụng Mediapipe để phát hiện tay và tư thế, và in ra "Hello World" khi một người vẫy tay.
+Day la mot phan trong du an khac*
 
 ## Tính năng
 - Phát hiện tay và tư thế với Mediapipe.
@@ -17,7 +18,7 @@ Dự án này là một ứng dụng camera trực tiếp sử dụng Mediapipe 
 1. Clone repository này:
 ```bash
 git clone https://github.com/ihatesea69/HelloDetection_HumanDetection_Module09_01_2025
-cd CameraOverlayStream
+cd HelloDetection_HumanDetection_Module09_01_2025
 ```
 
 
@@ -30,7 +31,7 @@ python setup.py install
 
 Chạy script để khởi động ứng dụng:
 ```bash
-python camera_overlay_stream.py
+python main.py
 ```
 
 ### Điều khiển
@@ -46,20 +47,12 @@ if landmarks[4].x > landmarks[3].x and landmarks[8].y < landmarks[6].y:
 
 ## Giấy phép
 
-Dự án này được cấp phép theo Giấy phép MIT. Xem file `LICENSE` để biết thêm chi tiết.
+Dự án thuoc nhom sinh vien HUFLIT, moi chi tiet xin vui long lien he facebook ben duoi
 
 ## Hỗ trợ
 
-Đối với câu hỏi hoặc vấn đề, vui lòng tạo issue trên [GitHub repository](https://github.com/your-repo/CameraOverlayStream/issues).
+Đối với câu hỏi hoặc vấn đề, vui lòng tạo issue trên [Facebook](https://www.facebook.com/danhhoanghieunghi69/).
 
 ---
 
-### Hướng dẫn:
-1. Lưu các file `setup.py` và `README.md` trong cùng thư mục với code của bạn.
-2. Tạo file `requirements.txt` với nội dung sau:
-```
-opencv-python
-mediapipe
-```
-3. Thêm file LICENSE nếu cần (ví dụ: giấy phép MIT).
-4. Để phân phối dự án, bạn có thể sử dụng các công cụ như `twine` để tải lên PyPI.
+ể phân phối dự án, bạn có thể sử dụng các công cụ như `twine` để tải lên PyPI.
