@@ -18,7 +18,7 @@ Day la mot phan trong du an khac*
 1. Clone repository này:
 ```bash
 git clone https://github.com/ihatesea69/HumanWaveDetector
-cd HelloDetection_HumanDetection_Module09_01_2025
+cd HumanWaveDetector
 ```
 
 
